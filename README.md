@@ -1,5 +1,5 @@
-<p>Hello! I'm Helena ❣ Welcome to my profile.</p>
-<p>Olá! Sou a Helena ❣ Seja bem-vindo (a) ao meu perfil.</p>
+<p>Hello! I'm Helena ▪️ Welcome to my profile.</p>
+<p>Olá! Sou a Helena ▪️ Seja bem-vindo (a) ao meu perfil.</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
