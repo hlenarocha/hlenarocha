@@ -1,5 +1,5 @@
 <p>Hello, world! 🌎 I'm Helena ▪️ Welcome to my GitHub profile.</p>
-<p>Yes, I would like a coffee. ☕</p>
+<i>Yes, I would like a coffee. ☕</i>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
