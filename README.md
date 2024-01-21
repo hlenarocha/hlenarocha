@@ -1,4 +1,5 @@
-👋<strong>Hi, I'm Helena!</strong>
+👋<strong> Hi, I'm Helena!</strong>
+<br>
 ☕<i> Sit down and have a coffee with me.</i>
 
 <div style="display: inline_block"><br>
