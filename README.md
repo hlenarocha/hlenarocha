@@ -1,4 +1,4 @@
-# Olá, sou a Helena! 👋
+# Olá, Helena aqui! 👋
 
 Sou **Engenheira de Software** interessada por **Inteligência Artificial**, **Machine Learning aliada à Ciência de Dados** e **Relidade Virtual**. Ao longo da minha jornada, venho contribuindo para a sociedade com projetos focados em inclusão e proteção online. Gosto de explorar novas tecnologias, aprender continuamente e compartilhar meus conhecimentos com a comunidade.
 
