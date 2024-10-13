@@ -25,7 +25,7 @@ Compartilho meus aprendizados no meu canal no YouTube, onde falo sobre desenvolv
 
 - **Machine Learning**: Explorando novos algoritmos para melhorar a detecção de ameaças no projeto Guardião.
 - **Desenvolvimento em Realidade Virtual**: Trabalhando na implementação de simulações de interações sociais para pessoas com TEA na **Unity**, integrando reconhecimento de voz e expressões faciais.
-- **Comunidade**: Participando de eventos acadêmicos como o **Paraná Faz Ciência 2024**, representando minha universidade e a Virtwell.
+- **Comunidade**: Participando de eventos acadêmicos e compartilhando aprendizados no YouTube.
 - **Aprendizado de Inglês**: Melhorando meu vocabulário e habilidades na língua para colaborar mais globalmente.
   
 ## 🌟 Objetivos Futuros
@@ -36,7 +36,7 @@ Compartilho meus aprendizados no meu canal no YouTube, onde falo sobre desenvolv
 
 ---
 
-Quer bater um papo ou colaborar em algum projeto? Me encontre em [LinkedIn](https://www.linkedin.com/in/helena-vd-rocha) ou me envie uma mensagem aqui no GitHub! 😄
+Quer bater um papo ou colaborar em algum projeto? Me encontre no [LinkedIn](https://www.linkedin.com/in/helena-vd-rocha) ou me envie uma mensagem aqui no GitHub! 😄
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
