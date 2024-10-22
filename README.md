@@ -42,4 +42,6 @@ I'm a **Software Engineer** passionate about **AI**, **Machine Learning**, and *
 
 <hr>
 
+<img align="center" src="https://64.media.tumblr.com/83ebacd7b6048b96c66898687ca58bf4/a8cf7a4767043c81-5e/s540x810/4015f72effee586a9b854b8bd7137e79fe7fcd07.gifv">
+
 Let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/helena-vd-rocha) or check out my GitHub for more cool projects! 🚀
