@@ -34,7 +34,7 @@ I'm a **Software Engineer** passionate about **AI**, **Machine Learning**, and *
 
 ---
 
-## 🤓 Fun Facts About Me
+## 🤓 Facts About Me
 
 - I love **learning new languages** (currently improving my English 🇬🇧 and French 🇫🇷), and I believe tech has no borders! 🌍
 - I enjoy mixing **technologies** and **social good**, always striving to create projects that protect and empower vulnerable communities. 💖🤖
