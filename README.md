@@ -1,6 +1,6 @@
 # Hi, I'm Helena Rocha! 
 
-I'm a **Software Engineer** student passionate about **AI**, **Machine Learning**, and **Virtual Reality**. I love exploring cutting-edge technologies, contributing to inclusive and protective online spaces, and sharing my knowledge with the community. If you’re excited about tech that makes a difference, you're in the right place! 🌍💡
+I'm a **Software Engineer** student passionate about **AI**, **Machine Learning**, and **Virtual Reality**. I love exploring cutting-edge technologies, contributing to inclusive and protective online spaces, and sharing my knowledge with the community. 
 
 ![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpodjFtOWh0Y2U0bWkxZGx1NXlmODlpNDdtMGtvY2VxN2w0djEzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif)
 
