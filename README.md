@@ -26,8 +26,8 @@ I'm a **Software Engineer** student passionate about **AI**, **Machine Learning*
 ## 🎯 Current focus
 
 - **Cybersecurity with AI**: Exploring new algorithms for **Guardião** to improve threat detection in real-time. 
-- **Virtual Reality Simulations**: Enhancing social interaction scenarios for people with **ASD** using cutting-edge tech like **Gemini AI** and **Unity**. 🕶
-- **Content Creation**: Sharing my coding adventures and tech tutorials on my YouTube channel "Helena". 
+- **Virtual Reality Simulations**: Enhancing social interaction scenarios for people with **ASD**. 🕶
+- **Content Creation**: Sharing my coding adventures and tech tutorials on my YouTube channel "Compilena". 
 
 
 ## 🤓 Facts about me
