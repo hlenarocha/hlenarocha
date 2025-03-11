@@ -23,18 +23,12 @@ I'm a **Software Engineer** student passionate about **AI**, **Machine Learning*
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## 🎯 Current focus
 
-- **Cybersecurity with AI**: Exploring new algorithms for **Guardião** to improve threat detection in real-time. 
-- **Virtual Reality Simulations**: Enhancing social interaction scenarios for people with **ASD**. 🕶
-- **Content Creation**: Sharing my coding adventures and tech tutorials on my YouTube channel "Compilena". 
+## Facts about me
 
-
-## 🤓 Facts about me
-
-- I love **learning new languages** (currently improving my English 🇬🇧 and French 🇫🇷), and I believe tech has no borders! 
+- I love **learning new languages** (currently improving my English and French), and I believe tech has no borders! 
 - I enjoy mixing **technologies** and **social good**, always striving to create projects that protect and empower vulnerable communities. 
-- I'm allergic to cats and a coffee-hater dev. ☕🐾 
+- I'm allergic to cats and a coffee-hater dev. 
 
 <hr>
 
@@ -43,4 +37,4 @@ I'm a **Software Engineer** student passionate about **AI**, **Machine Learning*
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlenarocha&layout=compact)](https://github.com/hlenarocha)
 
 
-Let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/helena-vd-rocha) or check out my GitHub for more cool projects! 🚀
+Let's connect! Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/helena-vd-rocha) or check out my GitHub! 
