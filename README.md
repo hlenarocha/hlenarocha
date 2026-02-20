@@ -1,12 +1,12 @@
 # Helena Rocha
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRxODBrMDl4NXczeWp4ZzM5NWxydmFpZWY5b2pjc25hZTBib2QzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p9X9Fq2musFC67y8oy/giphy.gif" width="230" />
 
 > código com propósito • technology with impact
 
 ---
 
-## 🇧🇷 Sobre mim
+## 🇧🇷 
 
 Engenheira de Software, caçadora de problemas e construtora de soluções.
 
@@ -15,7 +15,7 @@ Tecnologia não é só produto.
 
 ---
 
-## 🇺🇸 About me
+## 🇺🇸 
 
 Software Engineer who loves turning ideas into real, meaningful solutions.
 
@@ -35,7 +35,6 @@ Always learning. Always evolving.
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
----
 
 <p align="center">
   <i>"Give me a problem. I'll handle the solution."</i> 
