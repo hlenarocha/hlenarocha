@@ -1,6 +1,6 @@
 # Helena Rocha
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRxODBrMDl4NXczeWp4ZzM5NWxydmFpZWY5b2pjc25hZTBib2QzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p9X9Fq2musFC67y8oy/giphy.gif" width="230" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRxODBrMDl4NXczeWp4ZzM5NWxydmFpZWY5b2pjc25hZTBib2QzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p9X9Fq2musFC67y8oy/giphy.gif" width="300" />
 
 > código com propósito • technology with impact
 
